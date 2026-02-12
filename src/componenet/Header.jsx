@@ -1,9 +1,9 @@
 export default function Header({ cartCount }) {
   return (
     <header className="w-full bg-white shadow sticky top-0 z-10">
-      <div className="max-w-6xl flex justify-between items-center  px-3 sm:px-4 lg:px-6 py-3 sm:py-4">
+      <div className="w-full flex justify-between items-center px-4 sm:px-6 lg:px-10 py-3 sm:py-4">
         
-        <h1 className="text-lg sm:text-xl lg:text-2xl font-bold truncate">
+        <h1 className="text-lg sm:text-xl lg:text-2xl font-bold">
           UNI Resto Cafe
         </h1>
 
