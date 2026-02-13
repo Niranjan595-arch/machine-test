@@ -6,7 +6,7 @@ export default function Header({ cartCount }) {
         <h1 className="text-lg sm:text-xl lg:text-2xl font-bold">
           UNI Resto Cafe
         </h1>
-
+<h3>my order</h3>
         <div className="relative text-xl sm:text-2xl cursor-pointer">
           🛒
           <span className="absolute -top-2 -right-2 sm:-top-3 sm:-right-3 bg-red-500 text-white text-[10px] sm:text-xs px-1.5 sm:px-2 py-[2px] rounded-full min-w-[18px] text-center">
